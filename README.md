@@ -1,6 +1,6 @@
 # awesome-sharepoint-framework [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[![SharePoint Logo](./spfxLogo.svg)<img src="./spfxLogo.svg">](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/sharepoint-framework-overview)
+[<img width="100" align="right" src="./spfxLogo.svg">](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/sharepoint-framework-overview)
 
  > Useful resources for creating apps with the [SharePoint Framework](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/sharepoint-framework-overview)
  
