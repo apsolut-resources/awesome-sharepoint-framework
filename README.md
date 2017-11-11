@@ -1,5 +1,5 @@
 # awesome-sharepoint-framework
- > Useful resources for creating apps with the[SharePoint Framework](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/sharepoint-framework-overview)
+ > Useful resources for creating apps with the [SharePoint Framework](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/sharepoint-framework-overview)
  
  #### Table of Contents
 * [Community](#community)
