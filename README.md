@@ -5,4 +5,5 @@ A curated list of awesome for sharepoint framework
 * [Community](#community)
 
 ## Community
-[OfficeDev Slack](https://officedevslack.azurewebsites.net)
+* [OfficeDev Slack](https://officedevslack.azurewebsites.net)
+* [Microsoft TechNet SharePoint Developer Community](https://techcommunity.microsoft.com/t5/SharePoint-Developer/bd-p/SharePointDev)
