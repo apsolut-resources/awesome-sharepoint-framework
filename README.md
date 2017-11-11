@@ -3,8 +3,11 @@
  
  #### Table of Contents
 * [Apps](#apps)
-* [Community](#community)
+* [Tools](#tools)
 * [Documentation](#documentation)
+* [Articles](#articles)
+* [Videos](#videos)
+* [Community](#community)
 * [Tips](#tips)
 * [Contribute](#contribute)
 
@@ -24,7 +27,25 @@
 
 ## Tools
 * [PnP-JS-Core](https://github.com/SharePoint/PnP-JS-Core) - Help developers by simplifying common operations within SharePoint and the SharePoint Framework. Currently it contains a fluent API for working with the full SharePoint REST API as well as utility and helper functions.
-* [Docker Image](https://github.com/waldekmastykarz/docker-spfx) - Docker images for working with SharePoint Framework
+* [docker-spfx](https://github.com/waldekmastykarz/docker-spfx) - Docker images for working with SharePoint Framework
+* [gulp-spsync](https://github.com/wictorwilen/gulp-spsync) - Gulp plugin for synchronizing local files with a SharePoint library
+* [gulp-spsync-creds](https://github.com/estruyf/gulp-spsync-creds) - Gulp plugin for synchronizing local files with a SharePoint library via user credentials
+* [SPCAF](https://rencore.com/products/spcaf/) - Validate your SharePoint on-premises and Online customizations ([yoeman generator](https://github.com/rencoreab/generator-spcaf) for Sharepoint Framework task automation) :heavy_dollar_sign:
+
+## Documentation
+* [Getting Started](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/set-up-your-developer-tenant)
+* [Official Documentation](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/sharepoint-framework-overview)
+* [Github repo](https://github.com/SharePoint/sp-dev-docs)
+
+## Articles
+* [Building shared code in SharePoint Framework - revisited](https://blog.mastykarz.nl/building-shared-code-sharepoint-framework-revisited/) - When done correctly, shared code is loaded only once for each page by the SharePoint Framework. And if there are multiple web parts on the same page using it, they will not only load faster due to smaller bundle sizes but also due to the shared code being executed only once.
+* [Build multi-page SharePoint Framework client-side web parts with Angular v1.x](https://blog.mastykarz.nl/build-multi-page-sharepoint-framework-client-side-web-parts-angular/) - When building SharePoint Framework web parts using Angular you might need to implement multiple views. Here is how to do it without breaking other web parts on the page.
+* [Automate publishing of your SharePoint Framework solution package deployment](https://www.eliostruyf.com/automate-sharepoint-framework-solution-package-deployment/) - How to automate solution package upload process. No more manual upload of files and app package.
+
+## Videos
+* [PnP - Debugging Sharepoint Framework Solutions in Visual Studio Code](https://youtu.be/oNChcluMrm8)
+* [PnP - Exclude libraries from SharePoint Framework bundles](https://youtu.be/-5cXhenHKNk)
+
 
 ## Community
 * [Slack](https://officedevslack.azurewebsites.net)
@@ -32,11 +53,7 @@
 * [@SharePoint](https://twitter.com/sharepoint), [@OfficeDev](https://twitter.com/officedev) and [@OfficeDevPnP](https://twitter.com/officedevpnp) on Twitter
 * [User Voice](https://sharepoint.uservoice.com/forums/329220-sharepoint-dev-platform)
 * [MS Developer Community](https://techcommunity.microsoft.com/t5/SharePoint-Developer/bd-p/SharePointDev)
-
-## Documentation
-* [Getting Started](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/set-up-your-developer-tenant)
-* [Official Documentation](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/sharepoint-framework-overview)
-* [Github repo](https://github.com/SharePoint/sp-dev-docs)
+* [Monthly PnP Conference Call - Download ics](http://aka.ms/sppnp-call) - 2nd Tuesday of each month at 5 PM CET / 8 AM PST
 
 ## Tips
 Contribute some ;)
