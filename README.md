@@ -45,6 +45,7 @@
 * [Building shared code in SharePoint Framework - revisited](https://blog.mastykarz.nl/building-shared-code-sharepoint-framework-revisited/) - When done correctly, shared code is loaded only once for each page by the SharePoint Framework. And if there are multiple web parts on the same page using it, they will not only load faster due to smaller bundle sizes but also due to the shared code being executed only once.
 * [Build multi-page SharePoint Framework client-side web parts with Angular v1.x](https://blog.mastykarz.nl/build-multi-page-sharepoint-framework-client-side-web-parts-angular/) - When building SharePoint Framework web parts using Angular you might need to implement multiple views. Here is how to do it without breaking other web parts on the page.
 * [Automate publishing of your SharePoint Framework solution package deployment](https://www.eliostruyf.com/automate-sharepoint-framework-solution-package-deployment/) - How to automate solution package upload process. No more manual upload of files and app package.
+* [Correctly reference images in SharePoint Framework solutions](https://www.google.com/amp/s/blog.mastykarz.nl/correctly-reference-images-sharepoint-framework-solutions/amp/) - By changing the default configuration of webpack, you can have all image URLs point to the correct location without changing anything about your code.
 
 ## Videos
 * [PnP - Debugging Sharepoint Framework Solutions in Visual Studio Code](https://youtu.be/oNChcluMrm8)
