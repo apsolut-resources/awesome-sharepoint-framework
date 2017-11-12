@@ -18,6 +18,7 @@
 ## Apps
 
 ### Open Source
+* [react-handlebars-search](https://github.com/estruyf/react-handlebars-search) - This web part is created to allow you to visualize search results by using custom Handlebars templates.
 
 ### Closed Source
 
