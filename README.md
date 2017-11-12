@@ -36,7 +36,7 @@
 * [gulp-spsync](https://github.com/wictorwilen/gulp-spsync) - Gulp plugin for synchronizing local files with a SharePoint library
 * [gulp-spsync-creds](https://github.com/estruyf/gulp-spsync-creds) - Gulp plugin for synchronizing local files with a SharePoint library via user credentials
 * [SPCAF](https://rencore.com/products/spcaf/) - Validate your SharePoint on-premises and Online customizations ([yoeman generator](https://github.com/rencoreab/generator-spcaf) for Sharepoint Framework task automation) :heavy_dollar_sign:
-
+* [node-sppkg-deploy](https://github.com/estruyf/node-sppkg-deploy) - This is a project created for automating the deployment process of SharePoint application packages in the App Catalog site.
 ## Documentation
 * [Getting Started](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/set-up-your-developer-tenant)
 * [Official Documentation](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/sharepoint-framework-overview)
