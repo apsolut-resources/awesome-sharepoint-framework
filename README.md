@@ -37,6 +37,8 @@
 * [gulp-spsync-creds](https://github.com/estruyf/gulp-spsync-creds) - Gulp plugin for synchronizing local files with a SharePoint library via user credentials
 * [SPCAF](https://rencore.com/products/spcaf/) - Validate your SharePoint on-premises and Online customizations ([yoeman generator](https://github.com/rencoreab/generator-spcaf) for Sharepoint Framework task automation) :heavy_dollar_sign:
 * [node-sppkg-deploy](https://github.com/estruyf/node-sppkg-deploy) - This is a project created for automating the deployment process of SharePoint application packages in the App Catalog site.
+* [Chrome-SP-Editor](https://github.com/tavikukko/Chrome-SP-Editor) - Creating and editing js / css files in SharePoint Online from any device which has Chrome desktop browser. Also possibility to add local and external js/css resources references with usercustomactions. Offers web and list property debugging and updating, webhooks, and more.
+
 ## Documentation
 * [Getting Started](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/set-up-your-developer-tenant)
 * [Official Documentation](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/sharepoint-framework-overview)
@@ -47,6 +49,8 @@
 * [Build multi-page SharePoint Framework client-side web parts with Angular v1.x](https://blog.mastykarz.nl/build-multi-page-sharepoint-framework-client-side-web-parts-angular/) - When building SharePoint Framework web parts using Angular you might need to implement multiple views. Here is how to do it without breaking other web parts on the page.
 * [Automate publishing of your SharePoint Framework solution package deployment](https://www.eliostruyf.com/automate-sharepoint-framework-solution-package-deployment/) - How to automate solution package upload process. No more manual upload of files and app package.
 * [Correctly reference images in SharePoint Framework solutions](https://www.google.com/amp/s/blog.mastykarz.nl/correctly-reference-images-sharepoint-framework-solutions/amp/) - By changing the default configuration of webpack, you can have all image URLs point to the correct location without changing anything about your code.
+* [How to debug your SharePoint Framework unit-tests](https://www.eliostruyf.com/how-to-debug-your-sharepoint-framework-unit-tests/) - Better ways to start debugging your unit-tests.
+
 
 ## Videos
 * [PnP - Debugging Sharepoint Framework Solutions in Visual Studio Code](https://youtu.be/oNChcluMrm8)
