@@ -50,6 +50,7 @@
 * [Automate publishing of your SharePoint Framework solution package deployment](https://www.eliostruyf.com/automate-sharepoint-framework-solution-package-deployment/) - How to automate solution package upload process. No more manual upload of files and app package.
 * [Correctly reference images in SharePoint Framework solutions](https://www.google.com/amp/s/blog.mastykarz.nl/correctly-reference-images-sharepoint-framework-solutions/amp/) - By changing the default configuration of webpack, you can have all image URLs point to the correct location without changing anything about your code.
 * [How to debug your SharePoint Framework unit-tests](https://www.eliostruyf.com/how-to-debug-your-sharepoint-framework-unit-tests/) - Better ways to start debugging your unit-tests.
+* [Exclude mock data and other modules from your production bundle](https://www.eliostruyf.com/exclude-your-mock-data-and-other-modules-from-your-production-bundle-in-spfx/) - using'require' and environment variables to make more efficient production code.
 
 
 ## Videos
